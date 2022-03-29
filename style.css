@@ -12,9 +12,8 @@
 
 #sfondo {
     text-align: center;
-    background-color: lightskyblue;
-    margin-left: 50px;
-    margin-right: 50px;
+    background-color: lightskyblue;    margin-left: 30px;
+    margin-right: 30px;
 }
 
 #sfondo2 {
@@ -39,7 +38,7 @@
 }
 
 .containernav {
-    color: blue;
+    color: lightskyblue;
     background-color: black;
     margin-left: 30px;
     margin-right: 30px;
@@ -47,4 +46,7 @@
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    block-size: 5px;
+
+    
 }
